@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_title">View from Android Native</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_submit">Submit</string>
+    <string name="txt_dialog_title">Android Native</string>
+    <string name="txt_dialog_message">This message is from Android Native module</string>
+
+</resources>
